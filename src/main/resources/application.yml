@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@javaapi.d8nr7mj.mongodb.net/?retryWrites=true&w=majority
+      database : Product
